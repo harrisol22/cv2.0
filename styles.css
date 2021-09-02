@@ -58,6 +58,17 @@ p{
   margin: auto;
 }
 
+a {
+  text-decoration: none;
+  color: #11324D;
+  font-family: "Klee One", sans-serif;
+  padding: 0 10px;
+}
+
+a:hover {
+  color: #C1CFC0;
+}
+
 .summary {
   margin: 0 500px;
 }
